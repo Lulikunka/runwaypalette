@@ -1,4 +1,4 @@
-let link=document.querySelector('button');
+let link=document.querySelector('#obra');
 
 link.addEventListener('click',e => {
     e.preventDefault();

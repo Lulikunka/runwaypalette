@@ -21,12 +21,13 @@ iframe{
     width: 90%;
     
 }
-a{
+button{
     color: aliceblue;
     background-color:rgb(51, 15, 86) ;
     font-size: 2em;
-    padding: 0;
+    padding: 1em;
     margin: 2em;
     text-align: center;
+    width:80%
     
 }

@@ -1,4 +1,4 @@
-let link=document.querySelector('a');
+let link=document.querySelector('button');
 
 link.addEventListener('click',e => {
     e.preventDefault();
